@@ -155,6 +155,7 @@ https://github.com/OneHotTake/EndeVOR-2.4
 * How to mount the Ender 3 bed?
    * [bottom](Gallery/PXL_20230406_105018828.jpg)
    * [top](Gallery/PXL_20230830_124231232.jpg)
+   * use this jig for drilling https://www.printables.com/model/756948-center-punch-jig-for-ender3dent-bed-plate
 
 ## Mods
 
